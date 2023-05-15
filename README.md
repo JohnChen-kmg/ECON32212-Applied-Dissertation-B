@@ -1,2 +1,2 @@
 # ECON32212-Applied-Dissertation-B
-This repository contains all the files for final dissertation
+This repository contains all the do files and data for final dissertation

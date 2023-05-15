@@ -1,8 +1,6 @@
 # Data
 
-1. Migration data
-
-   -  Trade, Migration, and Productivity: A Quantitative Analysis of China (migration_data.dta)
-
-     https://www.openicpsr.org/openicpsr/project/113071/version/V1/view?path=/pcms/projects/1/1/3/0/113071/V1.0.1/20150811_data/migration_data.dta&type=file
-     
+1. 2000 Census-rd.dta.zip: Contains the 2000 China 0.95%% Population Census Raw Data
+2. China Province Code.csv: China province code
+3. migration_data.dta: Supplementary data set for income and distance (Source: https://www.aeaweb.org/articles?id=10.1257/aer.20150811)
+  
